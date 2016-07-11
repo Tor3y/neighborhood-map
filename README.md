@@ -2,7 +2,7 @@
 # Coffee Of Newport Beach
 
 ## Neighborhood Map Project
-* This project is a map of coffee shops found with the Newport Beach area.
+* This project is a map of Amazing coffee shops found within the Newport Beach area.
 
 
 ## This project was built with 
