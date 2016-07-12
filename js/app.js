@@ -105,10 +105,10 @@ $(document).ready(function () {
 
 var generateContentString = function (poiReturned) {
 
-  var consumerKey = "R9P1G_amYFdC5Uo14SeMHw"; 
-	var consumerSecret = "ca1mp3HeWZy2ZK-SkHxhMm_f8Wk";
-	var accessToken = "CZzMTRD-t9h-PccH-2rVUCeaa-SetctZ";
-	var accessTokenSecret = "yL7XOcZhr_148DFeoCVkRrIl6gA";
+   var consumerKey = "zvDAyoCigbWgIyUsegwXqw"; 
+	var consumerSecret = "AEcIV8vcA8fhe7ftXn8-FFc425Q";
+	var accessToken = "Y7uon86-ImC2G2FHLn3WTGfNGaOb85Dm";
+	var accessTokenSecret = "rVF588yr_MEcOApQWqzykZvCQeM";
 
     function nonce_generate() {
         return (Math.floor(Math.random() * 1e12).toString());
